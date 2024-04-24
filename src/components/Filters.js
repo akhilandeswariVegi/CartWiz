@@ -38,11 +38,11 @@ const Filters = () => {
 
   return (
     <div className="filters">
-      <span className="title">Filter Products</span>
+      <span className="title">Filters</span>
       <span>
         <Form.Check
           inline
-          label="Ascending"
+          label="Low to High"
           name="group1"
           type="radio"
           id={`inline-1`}
@@ -53,7 +53,7 @@ const Filters = () => {
       <span>
         <Form.Check
           inline
-          label="Descending"
+          label="High to Low"
           name="group1"
           type="radio"
           id={`inline-2`}
