@@ -37,7 +37,7 @@ const SingleProduct = ({ prod }) => {
             {/* Product price */}
             <span>₹ {prod.price.split(".")[0]}</span>
             {/* Display delivery time based on fast delivery */}
-            {prod.fastDelivery ? <div>Fast Delivery</div> : <div>4 days delivery</div>}
+            {prod.fastDelivery ? <div>Fast Delivery</div> : <div>3 days delivery</div>}
             {/* Display product rating */}
             <Rating rating={prod.ratings} />
           </Card.Subtitle>
