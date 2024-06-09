@@ -25,7 +25,7 @@ With these features, Cart Hub aims to simplify the shopping experience, providin
 ## To Run application
 To run the project locally, follow these steps:
 
-1. git clone https://github.com/akhilandeswariVegi/MovieHub_React.git
+1. git clone [https://github.com/akhilandeswariVegi/MovieHub_React.git](https://github.com/akhilandeswariVegi/Cart_Hub.git)
 2. npm install
 3. npm start
 
