@@ -22,6 +22,13 @@ With these features, Cart Hub aims to simplify the shopping experience, providin
 <img width="1457" alt="Screenshot 2024-06-09 at 3 13 50 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/4d1cc85e-16f1-4940-a43c-673a9c32fa86">
 <img width="1457" alt="Screenshot 2024-06-09 at 3 14 24 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/f8166024-49a6-4f60-b634-0328ced92c68">
 
+## To Run application
+To run the project locally, follow these steps:
+
+1. git clone https://github.com/akhilandeswariVegi/MovieHub_React.git
+2. npm install
+3. npm start
+
 
 
 
