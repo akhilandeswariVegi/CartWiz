@@ -29,7 +29,7 @@ const SingleProduct = ({ prod }) => {
     <div className="products">
       <Card>
         {/* Product image */}
-        <Card.Img variant="top" src={prod.image} alt={prod.name} />
+        <Card.Img variant="top" src={prod.image} alt={prod.name} class="card-img-top" />
         <Card.Body>
           {/* Product name */}
           <Card.Title>{prod.name}</Card.Title>

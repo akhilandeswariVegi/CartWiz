@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "Alexander Hamilton",
+        "price": "225",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/1200px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 5
+    },
+    {
+        "id": 2,
+        "name": "The Wright Brothers",
+        "price": "55",
+        "image": "https://m.media-amazon.com/images/I/71TYHByzngL._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 0,
+        "fastDelivery": true,
+        "ratings": 3
+    },
+    {
+        "id": 3,
+        "name": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "price": "905",
+        "image": "https://m.media-amazon.com/images/I/81Kaj5++6pL._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 5
+    },
+    {
+        "id": 4,
+        "name": "Becoming",
+        "price": "670",
+        "image": "https://m.media-amazon.com/images/I/81cJTmFpG-L._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 1
+    },
+    {
+        "id": 5,
+        "name": "Apple iPhone 13",
+        "price": "999",
+        "image": "https://m.media-amazon.com/images/I/71ZDY57yTQL._AC_UY1000_.jpg",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 5
+    },
+    {
+        "id": 6,
+        "name": "Long Walk to Freedom",
+        "price": "565",
+        "image": "https://m.media-amazon.com/images/I/91jMa+ndqrL._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 3,
+        "fastDelivery": true,
+        "ratings": 2
+    },
+    {
+        "id": 7,
+        "name": "Leonardo da Vinci",
+        "price": "1500",
+        "image": "https://cdn.britannica.com/57/194757-050-FD0A1CAA/Portrait-Leonardo-da-Vinci.jpg",
+        "inStock": 7,
+        "fastDelivery": true,
+        "ratings": 5
+    },
+    {
+        "id": 8,
+        "name": "Einstein: His Life and Universe",
+        "price": "100",
+        "image": "https://m.media-amazon.com/images/I/61TFlbIb1gL._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 2
+    },
+    {
+        "id": 9,
+        "name": "Walking with Destiny",
+        "price": "330",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk1OTczNjM3NV5BMl5BanBnXkFtZTgwMDU2NjkyNDE@._V1_.jpg",
+        "inStock": 5,
+        "fastDelivery": false,
+        "ratings": 3
+    },
+    {
+        "id": 10,
+        "name": "Sony PlayStation 5",
+        "price": "363",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/619BkvKW35L._AC_SL1500_.jpg",
+        "inStock": 0,
+        "fastDelivery": false,
+        "ratings": 5
+    },
+    {
+        "id": 11,
+        "name": "Fitbit Charge 4 Fitness and Activity Tracker",
+        "price": "1000",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71smqRr0pmL._AC_SL1500_.jpg",
+        "inStock": 5,
+        "fastDelivery": true,
+        "ratings": 5
+    },
+    {
+        "id": 12,
+        "name": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+        "price": "670",
+        "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_UY1000_.jpg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 1
+    },
+    {
+        "id": 13,
+        "name": "Samsung Galaxy S21",
+        "price": "1200",
+        "image": "https://m.media-amazon.com/images/I/91dLTREdG1L._AC_SL1500_.jpg",
+        "inStock": 1,
+        "fastDelivery": true,
+        "ratings": 4
+    }
+]
