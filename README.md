@@ -2,7 +2,7 @@
 CartHub is a React-based web application designed to simplify and enhance the online shopping experience by providing a centralized platform for managing shopping carts.
 
 ## Functionality Overview:
-Cart Hub provides a comprehensive set of features to enhance the shopping experience:
+Cart Wiz provides a comprehensive set of features to enhance the shopping experience:
 
 * Sorting Options: Easily find products by sorting them based on price (low to high, high to low) or ratings. Sorting helps identify the best deals and popular products swiftly.
 
@@ -10,11 +10,11 @@ Cart Hub provides a comprehensive set of features to enhance the shopping experi
 
 * Search Functionality: A powerful search feature allows searching for products by entering keywords or specific product names. This helps locate items efficiently and accurately, saving time and effort.
 
-With these features, Cart Hub aims to simplify the shopping experience, providing users with a seamless journey from browsing to checkout.
+With these features, Cart Wiz aims to simplify the shopping experience, providing users with a seamless journey from browsing to checkout.
 
 **Note**: There is a known issue in retrieval of image url's. So working on it to replace with any online API.
 
-## User Interface of Cart Hub
+## User Interface of Cart Wiz
 <img width="1470" alt="Screenshot 2024-06-12 at 10 57 01 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/662c857b-7014-4af2-842a-42729ac0cb6c">
 <img width="1470" alt="Screenshot 2024-06-12 at 10 56 53 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/e9f34f58-8770-4d60-94cd-3108df9166a2">
 <img width="1470" alt="Screenshot 2024-06-12 at 10 56 28 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/bdf47c96-6a71-4717-8c79-28224b26b5dd">

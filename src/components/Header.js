@@ -23,7 +23,7 @@ const Header = () => {
   return (
     <Navbar bg="dark" variant="dark" style={{ height: 80 }}>
       <Container>
-        <Navbar.Brand><Link to="/">Cart Hub</Link></Navbar.Brand>
+        <Navbar.Brand><Link to="/">Cart Wiz</Link></Navbar.Brand>
         {/* Search input (only displayed if not on cart page) */}
         {!isCartPage && (
           <Navbar.Text className="search">
