@@ -14,13 +14,13 @@ With these features, Cart Hub aims to simplify the shopping experience, providin
 
 **Note**: There is a known issue in retrieval of image url's. So working on it to replace with any online API.
 
-
 ## User Interface of Cart Hub
-
-<img width="1457" alt="Screenshot 2024-06-09 at 3 11 26 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/a152115d-0b90-484a-8b07-76e3d7af1f57">
-<img width="1457" alt="Screenshot 2024-06-09 at 3 12 50 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/188c4442-9557-46d9-836c-5d62537492fd">
-<img width="1457" alt="Screenshot 2024-06-09 at 3 13 50 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/4d1cc85e-16f1-4940-a43c-673a9c32fa86">
-<img width="1457" alt="Screenshot 2024-06-09 at 3 14 24 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/f8166024-49a6-4f60-b634-0328ced92c68">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 57 01 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/662c857b-7014-4af2-842a-42729ac0cb6c">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 56 53 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/e9f34f58-8770-4d60-94cd-3108df9166a2">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 56 28 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/bdf47c96-6a71-4717-8c79-28224b26b5dd">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 10 03 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/049fe745-50ed-4fc3-89fb-0ffd4dcd19b8">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 09 12 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/0dc29e7d-a547-489d-8557-4595931a80d3">
+<img width="1470" alt="Screenshot 2024-06-12 at 10 10 12 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/43aac4de-7432-404b-9d14-722064e76ce2">
 
 ## To Run application
 To run the project locally, follow these steps:
