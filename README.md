@@ -1,5 +1,5 @@
 # Cart_Wiz
-CartHub is a React-based web application designed to simplify and enhance the online shopping experience by providing a centralized platform for managing shopping carts.
+CartWiz is a React-based web application designed to simplify and enhance the online shopping experience by providing a centralized platform for managing shopping carts.
 
 ## Functionality Overview:
 Cart Wiz provides a comprehensive set of features to enhance the shopping experience:
