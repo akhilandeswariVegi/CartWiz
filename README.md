@@ -12,7 +12,6 @@ Cart Wiz provides a comprehensive set of features to enhance the shopping experi
 
 With these features, Cart Wiz aims to simplify the shopping experience, providing users with a seamless journey from browsing to checkout.
 
-**Note**: There is a known issue in retrieval of image url's. So working on it to replace with any online API.
 
 ## User Interface of Cart Wiz
 <img width="1470" alt="Screenshot 2024-06-12 at 10 57 01 PM" src="https://github.com/akhilandeswariVegi/Cart_Hub/assets/22704150/662c857b-7014-4af2-842a-42729ac0cb6c">
